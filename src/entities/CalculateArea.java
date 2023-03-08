@@ -25,5 +25,4 @@ public class CalculateArea {
         + "O Perimetro do retangulo e: " + String.format("%.2f", perimeter ) + "\n"
         + "A Diagonal do retangulo e: " + String.format("%.2f", diagonal ) + "\n";
     }
-
 }
