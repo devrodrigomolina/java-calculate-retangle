@@ -13,7 +13,7 @@ public class CalculateArea {
     }
 
     public void Perimeter() {
-        this.perimeter = width + height;
+        this.perimeter = 2 * (width + height);
     }
     
     public void Diagonal() {
